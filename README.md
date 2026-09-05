@@ -1,13 +1,12 @@
 # MuseGenerator
 
-A MuseScore Studio 4.7 plugin for random melody generation.
+A vibe-coded MuseScore Studio 4.7 plugin for random melody generation.
 
 ## Files
 
 - `musegenerator.qml` - the plugin (also installed to
   `~/Documents/MuseScore4/Plugins/`)
 - `NOTES.md` - API research notes (verified against MuseScore v4.7.4 sources)
-- `tmp/random_notes.qml` - third-party reference plugin
 
 ## Usage
 
